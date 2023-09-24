@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alden</h1>
 <h3 align="center">Associate Director of Technology at Getonnet AS</h3>
 
-- 📝 I regularly write post on [https://www.instagram.com/aldens.official/](https://www.instagram.com/aldens.official/)
+- 📝 I regularly post on [https://www.instagram.com/aldens.official/](https://www.instagram.com/aldens.official/)
 
 - 💬 Ask me about **devops, cloud, python and go**
 
